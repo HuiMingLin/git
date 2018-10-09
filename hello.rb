@@ -1,4 +1,4 @@
-#! /usr/bin/env ruby
+#1 /usr/bin/env ruby
 
 # prints out a greeting
 def hello
