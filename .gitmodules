@@ -1,0 +1,3 @@
+[submodule "lhm-cli"]
+	path = lhm-cli
+	url = https://github.com/HuiMingLin/lhm-cli.git
