@@ -1,4 +1,4 @@
-#1 /user/bin/env ruby
+#1 /usr/bin/env ruby
 
 def hello
   puts 'hello mundo'
